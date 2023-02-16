@@ -43,3 +43,7 @@ Search by code (choose 4 from main menu) gives a menu:
 - if choose 's' prints out for all shoes code for all shoes as a table
 
 ![Screenshot 2023-02-16 224242](https://user-images.githubusercontent.com/120607373/219506845-26ff9e65-615b-44a6-9373-11898d2cd66d.jpg)
+
+
+Re-stock shoes (choose 3 in main menu) - find and prints out shoes with the least amount and offers to update quantity
+![Screenshot 2023-02-16 221838](https://user-images.githubusercontent.com/120607373/219507275-39e80bd0-e4dc-4695-8ee4-0d74c283c084.jpg)

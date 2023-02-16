@@ -30,4 +30,13 @@ or download and extract the [zip file](https://github.com/svshmeleva/warehouse-s
 
 # Usage example
 
+![When program starts main menu is displayed](https://user-images.githubusercontent.com/120607373/219502002-f57e75ca-0f6c-4915-b9ff-508e7dca7c73.jpg)
+
+![View all (choose 1 from main menu) - prints out all data from txt file as table](https://user-images.githubusercontent.com/120607373/219502096-679799f5-0158-4332-9af3-bb5ef4498880.jpg)
+
+Search by code (choose 4 from main menu) gives a menu:
+![if choose 'c' finds shoe by code and prints out relevant information in a easy readable view](https://user-images.githubusercontent.com/120607373/219502983-1a4d7b1b-b3a3-4fc7-a8d7-b9344a70a16f.jpg)
+
+![if choose 's' prints out for all shoes code for all shoes as a table](https://user-images.githubusercontent.com/120607373/219504377-96b49729-f233-48ca-a823-d4c6756fc41c.jpg)
+
 

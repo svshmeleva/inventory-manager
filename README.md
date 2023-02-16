@@ -37,7 +37,9 @@ View all (choose 1 from main menu) - prints out all data from txt file as table
 
 Search by code (choose 4 from main menu) gives a menu:
 - if choose 'c' finds shoe by code and prints out relevant information in a easy readable view
+
 ![Screenshot 2023-02-16 221711](https://user-images.githubusercontent.com/120607373/219506782-2adb863e-3108-4f60-ac58-9d0c094d29fb.jpg)
 
 - if choose 's' prints out for all shoes code for all shoes as a table
+
 ![Screenshot 2023-02-16 224242](https://user-images.githubusercontent.com/120607373/219506845-26ff9e65-615b-44a6-9373-11898d2cd66d.jpg)

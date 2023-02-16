@@ -252,8 +252,9 @@ while True:
                 if shoe_code == "0":
                     break
                 else:
-                    if search_shoe(shoe_code) is not None:
-                        print(shoe_code)
+                    shoe = search_shoe(shoe_code)
+                    if shoe is not None:
+                        print(shoe)
                     else:
                         print(f"No shoes with {shoe_code} code.")
         elif menu_2.lower() == "s":

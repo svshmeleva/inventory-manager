@@ -29,9 +29,10 @@ To download the script please clone git repo:
 or download and extract the [zip file](https://github.com/svshmeleva/warehouse-stock-manager/archive/refs/heads/main.zip).
 
 # Usage example
-
+When program starts main menu is displayed
 ![When program starts main menu is displayed](https://user-images.githubusercontent.com/120607373/219502002-f57e75ca-0f6c-4915-b9ff-508e7dca7c73.jpg)
 
+View all (choose 1 from main menu) - prints out all data from txt file as table
 ![View all (choose 1 from main menu) - prints out all data from txt file as table](https://user-images.githubusercontent.com/120607373/219502096-679799f5-0158-4332-9af3-bb5ef4498880.jpg)
 
 Search by code (choose 4 from main menu) gives a menu:

@@ -29,6 +29,12 @@ To download the script please clone git repo:
 or download and extract the [zip file](https://github.com/svshmeleva/warehouse-stock-manager/archive/refs/heads/main.zip).
 
 # Usage example
+To use the script you need to have Python 3 installed, please refer to [Python 3 beginner's guide](https://wiki.python.org/moin/BeginnersGuide/Download) for instructions.
+To run the program use following command in the program directory:
+```
+python3 inventory.py
+```
+
 When program starts main menu is displayed
 ![Screenshot 2023-02-16 221212](https://user-images.githubusercontent.com/120607373/219506575-f35f076b-092d-4f41-bc1d-3c00ea9eef5b.jpg)
 
@@ -45,5 +51,5 @@ Search by code gives a menu:
 ![Screenshot 2023-02-16 224242](https://user-images.githubusercontent.com/120607373/219506845-26ff9e65-615b-44a6-9373-11898d2cd66d.jpg)
 
 
-Re-stock shoes - find and prints out shoes with the least amount and offers to update quantity
+Re-stock shoes - finds and prints out shoes with the least amount and offers to update quantity
 ![Screenshot 2023-02-16 221838](https://user-images.githubusercontent.com/120607373/219507275-39e80bd0-e4dc-4695-8ee4-0d74c283c084.jpg)
